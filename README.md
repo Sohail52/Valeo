@@ -1,17 +1,19 @@
 # Valeo
 
-A web app that helps you track your favourite Amazon products at notifies you when they are at their cheapest! Implemented with the help of Web Scraping!
+A simple web app that helps you track your favourite Amazon products and notifies you when the price drops! Built using Web Scraping.
 
 ## Features
-- Bookmark the product via Email
-- Recieve notification emails at a price-drop 
+- Bookmark products by pasting the Amazon link
+- Receive notification emails when the price drops
+- Automatically checks prices using scheduled jobs
 
+## Technologies Used
+- Next.js
+- TailwindCSS
+- BrightData (for scraping)
+- Cheerio
+- Cron Jobs
+- Nodemailer (for email alerts)
 
-## Technologies
-NextJS, TailwindCSS, BrightData, Cheerio, Cron-Jobs
-
-## Authors
-
-- [@hanzalahwaheed](https://www.github.com/hanzalahwaheed)
-
-
+## Author
+- Syed Sohail Mehmood

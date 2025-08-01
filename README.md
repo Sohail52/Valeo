@@ -16,4 +16,4 @@ A simple web app that helps you track your favourite Amazon products and notifie
 - Nodemailer (for email alerts)
 
 ## Author
-- Syed Sohail Mehmood
+- [@syedsohailmehmood](https://github.com/Sohail52)
